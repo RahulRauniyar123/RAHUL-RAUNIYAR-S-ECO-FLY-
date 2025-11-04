@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Eco Fly: AEROPLANES CO₂ Calculator",
+  "description": "An AI-powered web application to calculate flight CO₂ emissions using the Haversine formula and provide eco-friendly travel tips. Designed to raise awareness for sustainable aviation.",
+  "requestFramePermissions": []
+}
